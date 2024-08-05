@@ -1,5 +1,5 @@
 #include <zephyr/kernel.h>
-#define zero 0
+#define zero 1
 int main(void)
 {
         hello
